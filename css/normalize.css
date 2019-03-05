@@ -10,9 +10,10 @@
  */
 
 html {
-  line-height: 1.15; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  font-sie: 16px;
+  line-height: 1.5; /* 1 */
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: #111;
 }
 
 /* Sections
